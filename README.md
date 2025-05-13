@@ -9,7 +9,7 @@ Requisitos Minimos:
 HTML:
 El HTML debe incluir como mínimo:
 
-Un título claro de la aplicación (por ejemplo, <h1>).
+Un título claro de la aplicación (por ejemplo, h1).
 
 Un formulario con:
 
